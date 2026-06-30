@@ -51,7 +51,7 @@ I’m deeply focused on architecture, performance, clean code, and business-driv
 
 ## 📊 GitHub Stats
 
-![Your GitHub Status](https://github-readme-status.vercel.app/api?username=Antonymarcosribeirodesouza&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonymarcosribeirodesouza)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🚀 Philosophy
