@@ -52,8 +52,8 @@ I’m deeply focused on architecture, performance, clean code, and business-driv
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=antonymarcosribeirodesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonymarcosribeirodesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Antonymarcosribeirodesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonymarcosribeirodesouza&layout=compact&theme=tokyonight" />
 </p>
 
 ---
