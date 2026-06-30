@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi 👋, Im Antony Souza
 
-<!--
-**Antonymarcosribeirodesouza/Antonymarcosribeirodesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Junior Web Developer HTML CSS JS & JAVA **
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+I build scalable products, SaaS platforms, and high-performance web systems.
+I’m deeply focused on architecture, performance, clean code, and business-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/Antonymarcosribeirodesouza">
+    <img src="https://img.shields.io/badge/GitHub-ANTONYMARCOSRIBEIRODESOUZA-181717?style=for-the-badge&logo=github" />
+  </a>
+
+</p>
+
+---
+
+## 🧠 What I do
+
+-   🏗️ SaaS & High-scale systems
+-   ⚡ Performance optimization
+-   🧩 Clean architecture & system design
+-   🔐 Secure APIs & authentication
+-   💳 Payments, subscriptions & business logic
+-   🤖 Automation & integrations
+-   📊 Dashboards & analytics
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+ ![JavaScript](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![JavaScript](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
+
+
+### Backend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+### IA
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=antonymarcosribeirodesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonymarcosribeirodesouza&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
