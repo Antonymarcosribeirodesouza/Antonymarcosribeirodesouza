@@ -46,14 +46,6 @@ I’m deeply focused on architecture, performance, clean code, and business-driv
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-
----
-
-## 📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonymarcosribeirodesouza)](https://github.com/Antonymarcosribeirodesouza/github-readme-stats)
----
-
 ## 🚀 Philosophy
 
 > _"Code is not just about solving problems.  
