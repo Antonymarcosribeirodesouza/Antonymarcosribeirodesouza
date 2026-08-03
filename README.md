@@ -1,4 +1,4 @@
-#👋 Hi, Im Antony Souza
+👋 Hi, Im Antony Souza
 
 🚀 Junior Web Developer HTML CSS JS & JAVA 
 🇧🇷 Brazil
