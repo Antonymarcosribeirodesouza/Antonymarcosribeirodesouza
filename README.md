@@ -1,6 +1,6 @@
-# Hi 👋, Im Antony Souza
+#👋 Hi, Im Antony Souza
 
-🚀 **Junior Web Developer HTML CSS JS & JAVA **
+🚀 Junior Web Developer HTML CSS JS & JAVA 
 🇧🇷 Brazil
 
 I build scalable products, SaaS platforms, and high-performance web systems.
